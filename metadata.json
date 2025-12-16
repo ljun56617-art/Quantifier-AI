@@ -1,0 +1,5 @@
+{
+  "name": "Quantifier AI",
+  "description": "A quantitative analysis tool that evaluates text based on professionalism, accuracy, and readability using the Gemini API.",
+  "requestFramePermissions": []
+}
